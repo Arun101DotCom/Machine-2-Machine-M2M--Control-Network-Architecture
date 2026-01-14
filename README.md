@@ -36,3 +36,8 @@ $$u(t) = K_p e(t) + K_i \int e(t) dt + K_d \frac{de(t)}{dt}$$
 - `/network_configs`: Interface files and routing scripts.
 - `/src_control`: C/C++ code for the Encoder and PID Controller.
 - `/analysis`: Tcpdump logs and GnuPlot script results.
+  
+* 01_Technical Report
+* 02_Output Data
+
+**Author:** Arun Chakkyadath Chandran 
